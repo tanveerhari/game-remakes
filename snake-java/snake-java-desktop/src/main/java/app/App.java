@@ -8,6 +8,7 @@ import app.ui.GameFrame;
 public class App {
 
     public static void main(String[] args) {
+        //TODO: Encapsulate
     	new GameFrame("Snake");
     }
 }
